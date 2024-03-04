@@ -16,6 +16,6 @@ curl -s https://gist.githubusercontent.com/HaleTom/89ffe32783f89f403bba96bd7bcd1
 
 * [Bash promt generator](https://robotmoon.com/bash-prompt-generator/) - [Github](https://github.com/linrock/bash-prompt-generator)
 * [ZSH promt generator](https://robotmoon.com/zsh-prompt-generator/)  - [Github](https://github.com/linrock/zsh-prompt-generator)
-* [Script's author Github](https://gist.github.com/HaleTom/89ffe32783f89f403bba96bd7bcd1263) 
+* [TermColourGenerator script's author Github](https://gist.github.com/HaleTom/89ffe32783f89f403bba96bd7bcd1263) 
 * [Tmux Github](https://github.com/tmux/tmux/wiki) 
 * [Vim Gitgub](https://github.com/vim/vim)
