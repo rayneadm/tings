@@ -1,2 +1,3 @@
-# tings
-Some useful tings
+---
+## Some useful tings
+---
