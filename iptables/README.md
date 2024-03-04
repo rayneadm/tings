@@ -1,13 +1,11 @@
 # Example iptables configuration for use on DNS Server
 
-##### First one 
++ First one 
 That ruls user **ens3** ifname, check your ifname before use it.  
-
-##### Second 
++ Second 
 These rules contain private and/or fake addresses,  
 this also needs to be checked and corrected before use.  
-
-##### Last one :alien: 
++ Last one :alien: 
 This list lists the ipv4 and ipv6 rules for a DNS server such as BIND9.  
 have been tested on a production server, more information about   
 BIND9 or iptables is available in the links below.
