@@ -1,16 +1,26 @@
-# How to add iptables rules in autostart
+# Example iptables configuration for use on DNS Server
 
-### First one 
+##### First one 
 That ruls user **ens3** ifname, check your ifname before use it.  
 
-## Second ..
+##### Second 
 These rules contain private and/or fake addresses,  
 this also needs to be checked and corrected before use.  
 
-### Last one :alien: 
+##### Last one :alien: 
 This list lists the ipv4 and ipv6 rules for a DNS server such as BIND9.  
 have been tested on a production server, more information about   
 BIND9 or iptables is available in the links below.
+
+### Get examples 
+
+```shell
+mkdir /tmp/rules
+cd !$
+curl -o ip4.rules.sh https://raw.githubusercontent.com/rayneadm/tings/main/iptables/ip4.rules.sh
+curl -o ip4.rules.sh https://raw.githubusercontent.com/rayneadm/tings/main/iptables/ip6.rules.sh
+```
+Prepare configuration (ifname.... ip adreses...)
 
 ```shell
 sh ./ip4.rules.sh
@@ -24,6 +34,7 @@ To show rule result run:
 
 To clear all rules use `iptable -F && ip6table -F`
 
+### How to add iptables rules in autostart
 
 ```shell
 touch /etc/network/if-pre-up.d/iptables
@@ -43,8 +54,9 @@ Add bellow in */etc/network/if-pre-up.d/iptables*
 
 
 
-# Links
+### Links
+
 * [BIND9 \ named](https://bind9.net/)
-* [iptables \ netfilter](https://www.netfilter.org/projects/iptables/index.html)  
+* [Netfilter \ iptables ](https://www.netfilter.org/projects/iptables/index.html)  
 
 
