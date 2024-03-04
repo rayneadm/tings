@@ -1,10 +1,8 @@
 ## Terminal 
 Setting for mac terminal.app
 
-**Pro 2.terminal** 
-*  - Font: JetBrains Mono HL Regular 12.*
-**Pro.terminal** 
-*  - Font: Monaco 12; character spacing 1,1.*
+**Pro 2.terminal** *Font: JetBrains Mono HL Regular 12.*   
+**Pro.terminal**   * Font: Monaco 12; character spacing 1,1.*   
 
 
 ## Some useful setting for zsh or bash 
