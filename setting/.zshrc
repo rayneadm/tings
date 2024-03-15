@@ -14,6 +14,7 @@ alias ll="ls -laG"
 alias lll="ls -laG"
 alias cls="clear"
 alias car="cat"
+alias gdate="date -u +'%Y-%m-%d %H:%M %Z'"
 
 viknow () {
  vi +$1 ~/.ssh/known_hosts 
