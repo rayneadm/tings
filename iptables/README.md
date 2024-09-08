@@ -16,7 +16,7 @@ BIND9 or iptables is available in the links below.
 mkdir /tmp/rules
 cd !$
 curl -o ip4.rules.sh https://raw.githubusercontent.com/rayneadm/tings/main/iptables/ip4.rules.sh
-curl -o ip4.rules.sh https://raw.githubusercontent.com/rayneadm/tings/main/iptables/ip6.rules.sh
+curl -o ip6.rules.sh https://raw.githubusercontent.com/rayneadm/tings/main/iptables/ip6.rules.sh
 ```
 Prepare configuration (ifname.... ip adreses...)
 
