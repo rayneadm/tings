@@ -17,7 +17,7 @@
         "*": true,
         "markdown": true
     },
-    "chatgpt.lang": "ru",
+    "chatgpt.lang": "ru,en",
     "genieai.enableConversationHistory": true,
     "editor.tabSize": 2,
     "update.showReleaseNotes": false,
