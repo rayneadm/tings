@@ -1,8 +1,6 @@
 {
     "redhat.telemetry.enabled": true,
     "vs-kubernetes": {
-        "vscode-kubernetes.helm-path-mac": "/Users/evgenystyrov/.vs-kubernetes/tools/helm/darwin-arm64/helm",
-        "vscode-kubernetes.minikube-path-mac": "/Users/evgenystyrov/.vs-kubernetes/tools/minikube/darwin-arm64/minikube"
     },
     "editor.fontFamily": "Monaco",
     "editor.quickSuggestions": {
