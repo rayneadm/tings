@@ -1,0 +1,30 @@
+{
+    "redhat.telemetry.enabled": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-mac": "/Users/evgenystyrov/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+        "vscode-kubernetes.minikube-path-mac": "/Users/evgenystyrov/.vs-kubernetes/tools/minikube/darwin-arm64/minikube"
+    },
+    "editor.fontFamily": "Monaco",
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "vscode-great-icons",
+    "git.confirmSync": false,
+    "codeium.enableConfig": {
+        "*": true,
+        "markdown": true
+    },
+    "chatgpt.lang": "ru",
+    "genieai.enableConversationHistory": true,
+    "editor.tabSize": 2,
+    "update.showReleaseNotes": false,
+    "editor.renderWhitespace": "all",
+    "window.density.editorTabHeight": "compact",
+    "workbench.colorTheme": "Default Dark+",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorSmoothCaretAnimation": "explicit"
+}
