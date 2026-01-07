@@ -1,5 +1,5 @@
 # motd.sh
-<img src="example.png">
+<img src="motd.png">
 
 
 Еще не unix-porn но по шкале от 1 до 10 уже 7.  
@@ -49,4 +49,4 @@ chmod +x /etc/profile.d/motd.sh
 ```bash
 for i in {0..255}; do printf "\033[38;5;%sm%3s " "$i" "$i"; done; echo
 ```
-<img src="example2.png">
+<img src="cmd.png">
