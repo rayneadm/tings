@@ -79,4 +79,7 @@ for i in {0..255}; do printf "\033[38;5;%sm%3s " "$i" "$i"; done; echo
   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |	
 ```
 
-(Litle more examples of ASCII Art)[https://www.asciiart.eu/]
+
+
+
+[Litle more examples of ASCII Art](https://www.asciiart.eu/)
