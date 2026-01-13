@@ -2,7 +2,6 @@
 if [[ -n "$SUDO_USER" ]] || [[ -n "$SU_FROM" ]]; then
     return 0
 fi
-
 make_gradient_line() {
   local text="$1"
   local colors=(71 107 143 179 215 216 217 218 219 183 147 111 75)
