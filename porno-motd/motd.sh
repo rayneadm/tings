@@ -1,5 +1,5 @@
 #!/bin/bash
-if [[ -n "$SUDO_USER" ]] || [[ -n "$SU_FROM" ]]; then
+if [[ -n "$SUDO_USER" ]] || [[ -n "$SU_FROM" ]] || [[ "$(id -un)" != "$USER" ]]; then
     return 0
 fi
 make_gradient_line() {
