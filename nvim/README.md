@@ -1,4 +1,4 @@
-"""# 🧠 Neovim (LazyVim) — DevOps конфигурация
+# 🧠 Neovim (LazyVim) — DevOps конфигурация
 
 Минималистичная и быстрая конфигурация Neovim для DevOps задач.
 
