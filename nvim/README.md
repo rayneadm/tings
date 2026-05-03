@@ -1,15 +1,5 @@
 # 💤 LazyVim - — DevOps конфигурация
 
-Ниже — чистый, lint-friendly README.md, без ошибок markdownlint (MD025, MD012, MD040 исправлены).
-
-Можно копировать как есть 👇
-
-⸻
-
-:::writing{variant=“standard” id=“84219”}
-
-🧠 Neovim (LazyVim) — DevOps конфигурация
-
 Минималистичная и быстрая конфигурация Neovim с поддержкой:
 • Kubernetes (YAML)
 • Docker
